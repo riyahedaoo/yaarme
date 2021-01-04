@@ -32,7 +32,7 @@ class Post extends Component {
                     <br/><br/>
                     <img src={post} alt="" className="post" /> 
                     <div style={{float:"right"}}>
-                    <img src={edit} alt="" className="edit2" />  
+                    <a href="#"><img src={edit} alt="" className="edit2" /></a>
                     </div>
                     <text style={{fontSize:"1.9vh"}}><b>YaarMe</b></text>
                     <p style={{color:"darkgrey", fontSize:"1.6vh"}}>yaarme</p>
