@@ -15,8 +15,8 @@ class Info extends Component {
                 <div style={{float:"right", position:"relative",top:"-1vh"}}>
                 <table>
                 <tr>
-                    <td><a href="#" ><img src={edit} alt="" className="edit" /></a></td>
-                    <td><a href="#" ><img src={next} alt="" className="next" /></a></td>
+                    <td><a href="#/" ><img src={edit} alt="" className="edit" /></a></td>
+                    <td><a href="#/" ><img src={next} alt="" className="next" /></a></td>
                 </tr>    
                 </table>
                 </div>
